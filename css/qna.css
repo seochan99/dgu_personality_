@@ -31,7 +31,7 @@
 }
 .answerList:hover, .answerList:focus {
   /* background-color: rgb(252, 206, 120); */
-  background-color: #FFD966;
+  background-color: rgb(255, 227, 227);
   color: rgb(0, 0, 0);
   border: none;
   text-decoration: none;
@@ -73,14 +73,14 @@
   border-radius: 7px;
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#febbbb+0,fe9090+52,ff5c5c+100;Red+3D+%231 */
   background: #ffd4d4;
-  /* #FC9F27 */
+  /* rgb(255, 196, 196) */
   
   /* Old browsers */
-  background: -moz-linear-gradient(top, #FC9F27 0%, #FC9F27 52%, #FC9F27 100%);
+  background: -moz-linear-gradient(top, rgb(255, 196, 196) 0%, rgb(255, 196, 196) 52%, rgb(255, 196, 196) 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #FC9F27 0%, #FC9F27 52%, #FC9F27 100%);
+  background: -webkit-linear-gradient(top, rgb(255, 196, 196) 0%, rgb(255, 196, 196) 52%, rgb(255, 196, 196) 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #FC9F27 0%, #FC9F27 52%, #ffa632 100%);
+  background: linear-gradient(to bottom, rgb(255, 196, 196) 0%, rgb(255, 196, 196) 52%, rgb(255, 196, 196) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#febbbb', endColorstr='#ff5c5c', GradientType=0);
   /* IE6-9 */

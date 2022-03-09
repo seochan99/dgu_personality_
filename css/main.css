@@ -23,14 +23,14 @@ p{
 }  
 .startButton{
   padding: 13px 50px; 
-  border: 3px solid orange;
-  color: orange;
+  border: 3px solid rgb(255, 196, 196);
+  color: rgb(255, 196, 196);
   border-radius: 8px;
 }
 .startButton:hover, .startButton:active{
-  background-color: orange;
+  background-color: rgb(255, 196, 196);
   color: whitesmoke;
-  border: 4px solid orange;
+  border: 4px solid rgb(255, 196, 196);
   border-radius: 8px;
 }
 .Gmarket{
